@@ -8,4 +8,4 @@ __Webscrapped URL:__ [Mean household income by ethnicity] (https://en.wikipedia.
 
 __Collaborators:__
 
--Cesar Carrillo
+-Cesar Carrillo (Accepted 4/18/21)
